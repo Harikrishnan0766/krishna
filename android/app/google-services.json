@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1007664493001",
+    "project_id": "student-db-d4c6e",
+    "storage_bucket": "student-db-d4c6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007664493001:android:d24627bc01db683fabf818",
+        "android_client_info": {
+          "package_name": "com.example.student_recod_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJTpIer7blWyNprmENsFDwfnke4rZgjkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
